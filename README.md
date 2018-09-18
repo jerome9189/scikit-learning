@@ -1,7 +1,7 @@
 # scikit-learning
 Practical exercises in scikit-learn for data manipulation, exploration and machine learning
 
-## Housing.ipynp
+## Housing.ipynb
 Tackling the classic regression problem of predicting the median housing price in a given housing district
 
 ## MNIST.ipynb
